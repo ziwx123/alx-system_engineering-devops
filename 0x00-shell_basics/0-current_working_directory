@@ -1,6 +1,2 @@
 #!/bin/bash
-
-# This is a comment
-
-# Print the current working directory
 pwd
