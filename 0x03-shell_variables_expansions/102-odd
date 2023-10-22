@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "first,second" | paste -d, - - | cut -d, -f1
+echo "your_input_data" | paste -d, - - | cut -d, -f1
